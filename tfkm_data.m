@@ -1,5 +1,3 @@
-cd('C:\Users\Calif\OneDrive\Documenti\Passato\Desktop\Backup PC\Documenti\Expansion Drive\Documents\Documents\Università\Post-Doc\spec');
-%%
 z=mvnrnd(repmat(0,100,1),diag(repmat(1,100,1)),100)
 
 %%
